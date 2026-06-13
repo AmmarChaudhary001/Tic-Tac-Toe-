@@ -95,7 +95,7 @@ export default function App() {
     }
     else{
       return Snackbar.show({
-        text:'Positin is already Filled',
+        text:'Position is already Filled',
         backgroundColor:'#282f3e',
         textColor:'#cacbd0'
       })
